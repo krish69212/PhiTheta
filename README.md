@@ -12,8 +12,6 @@ Plotting 3D point clouds and surfaces
 
 Rendering custom equations defined in spherical coordinates
 
-Swappable render engines (Raylib / OpenGL)
-
 Possibly animation + simulation modules later on
 
 If you have any suggestions or want to collaborate, reach out:
