@@ -1,5 +1,7 @@
 --- Spherical Coordinate Grapher in C++ ---
 
+NO CHAT WILL BE USED IN THIS
+
 Hey everyone — this is the pre-dev statement for my next project: building a spherical-coordinate grapher in C++.
 
 The goal of this project is to take in points or functions defined in spherical coordinates (r, θ, φ) and convert + render them in 3D. I’ll start with a simple point-plotter and grow it into a full interactive grapher that can visualize surfaces, 3D fields, and mathematical objects that are easier to express in spherical space.
